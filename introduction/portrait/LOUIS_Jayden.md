@@ -1,2 +1,3 @@
-Un de mes champs d'intérêt dans le multimédia est le montage photo. Le projet qui m'a inspiré était le photoshoot que j'ai fais en cours de photographie.
-(![selfie_Jayden](https://github.com/user-attachments/assets/c2a6887a-9654-4c52-88ed-661d069390d4)
+# Jayden Louis
+## **Intérêts dans le multimédia**
+J'aime faire du montage vidéo sur TikTok. Je me suis inspiré de @notagility_ sur TikTok. Il fait plein de montages comme Spider-Man et cela m'a vraiment poussé a faire des vidéos similaire à lui. Il y a aussi @zech.kahn il fait des montages de jeux-vidéos et j'ai créer plusieurs montages avec les mêmes sujets.
