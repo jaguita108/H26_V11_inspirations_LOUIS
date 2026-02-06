@@ -4,7 +4,7 @@
 
 ## Lieu de mise en exposition
 Galerie de l'Université de Montréal
-<img src="photo/affiche_exposition.jpg" width="100">
+<img src="photo/affiche_exposition.jpg" width="300">
 
 ## Type d'exposition
 Temporaire et intérieure
