@@ -2,6 +2,30 @@
 
 # Techno-compost 01 (Decomposition) / Techno-compost 02 (Le bruit RVB et l'espace latent en tant que jardin)
 
+## Lieu de mise en exposition
+Galerie de l'Université de Montréal
+
+## Type d'exposition
+Temporaire et intérieure
+
+## Date de ma visite
+30 janvier 2026
+
+## Titre de l'oeuvre
+Techno-compost 01 (Decomposition) / Techno-compost 02 (Le bruit RVB et l'espace latent en tant que jardin)
+
+## Nom de l'artiste
+Marie Levasseur
+
+## Année de réalisation
+2025
+
+## Description de l'oeuvre ou du dispositif
+### Techno-compost 01:
+Installation immersive de réalité virtuelle, impressions numériques sur tissu, bois, mousse de rembourrage, structure en acier, câbles à haut-parleur-transducteurs, ordinateur, modem, casques de RV et projection.
+Durée: indeterminée
+Dimensions: variables
+
 ## -Mes commentaires
 
 Premièrement, j'ai remarqué que dans <<Techno-compost 01 (Decomposition)>>, les images étaient différentes. Les images dans cette oeuvre étaient des images d'insectes comme des abeilles, des araignées et des mouches et il  y avait aussi une image d'araignée robotique. J'ai toruvé ça plutôt étrange. Les images tombaient sur moi en réalité virutelle et je pouvais les prendre. 
