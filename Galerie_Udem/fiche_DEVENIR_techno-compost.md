@@ -38,7 +38,7 @@ Immersive et interactive
 Montrer des images générées par l'IA à travers un casque de réalité virtuelle
 
 ## Mise en espace
-[!logo](photo/croquis.png)
+(photo/croquis.png)
 
 
 ## -Mes commentaires
