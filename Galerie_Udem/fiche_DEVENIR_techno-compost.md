@@ -4,7 +4,6 @@
 
 ## Lieu de mise en exposition
 Galerie de l'Université de Montréal
-![image](photo/affiche_exposition.jpg)
 <img src="photo/affiche_exposition.jpg" width="100">
 
 ## Type d'exposition
