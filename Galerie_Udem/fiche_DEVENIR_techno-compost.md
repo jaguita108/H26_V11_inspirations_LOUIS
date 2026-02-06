@@ -40,6 +40,28 @@ Montrer des images générées par l'IA à travers un casque de réalité virtue
 ## Mise en espace
 ![image](photo/croquis.png)
 
+## Composantes et techniques
+Le casque de réalité virtuelle et la chaise
+
+## Éléments nécessaires à la mise en exposition
+Le casque de réalité virtuelle, la chaise, un projecteur et les images générées par l'IA
+
+## Expérience vécue
+Dès que j'entre dans la salle, je vois l'oeuvre de techno-compost au loin.
+
+## Ce qui m'a plu et me donne des idées
+J'ai vraiment aimé le fait que l'oeuvre soit en réalité virtuelle, c'était original
+
+## Aspect que je ne souhaiterais pas retenir pour mes propres créations
+Je mettrais plus d'intéractivité dans l'oeuvre
+
+## Voici le site web de l'artiste qui a créé cette oeuvre
+https://marieevelevasseur.com/techno-compost/
+
+## Voici le site de l'exposition
+https://galerie.umontreal.ca/devenirs-partagees-pratiques-de-lia.php
+
+
 
 ## -Mes commentaires
 
