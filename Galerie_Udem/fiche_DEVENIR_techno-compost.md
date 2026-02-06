@@ -26,6 +26,20 @@ Installation immersive de réalité virtuelle, impressions numériques sur tissu
 Durée: indeterminée
 Dimensions: variables
 
+### Techno-compost 02:
+Tapisserie: échantillons d'entraînement d'un modèle inconditionnel de diffusion, traces  des processus de recherche et d'expérimentation, impressions numériques sur papier.
+Projection: promenade entre 15 vecteurs dans mon petit jardin d'espace latent
+Durée: 6min38
+
+## Type d'installation:
+Immersive et interactive
+
+## Fonction du dispositif multimédia
+Montrer des images générées par l'IA à travers un casque de réalité virtuelle
+
+## Mise en espace
+
+
 ## -Mes commentaires
 
 Premièrement, j'ai remarqué que dans <<Techno-compost 01 (Decomposition)>>, les images étaient différentes. Les images dans cette oeuvre étaient des images d'insectes comme des abeilles, des araignées et des mouches et il  y avait aussi une image d'araignée robotique. J'ai toruvé ça plutôt étrange. Les images tombaient sur moi en réalité virutelle et je pouvais les prendre. 
