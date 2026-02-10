@@ -55,7 +55,7 @@ Le casque de réalité virtuelle et la chaise
 Le casque de réalité virtuelle, la chaise, un projecteur et les images générées par l'IA
 
 ## Expérience vécue
-<img src="parcours_visiteur.jpg" width="300">
+<img src="photo/parcours_visiteur.jpg" width="300">
 Dès que j'entre dans la salle, je vois l'oeuvre de techno-compost au loin.
 
 ## Ce qui m'a plu et me donne des idées
