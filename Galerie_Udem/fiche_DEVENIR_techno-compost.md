@@ -47,12 +47,15 @@ Montrer des images générées par l'IA à travers un casque de réalité virtue
 ![image](photo/croquis.png)
 
 ## Composantes et techniques
+<img src="photo/partie_composante.jpg" width="300">
 Le casque de réalité virtuelle et la chaise
 
 ## Éléments nécessaires à la mise en exposition
+<img src="photo/element_necessaire.jpg" width="300">
 Le casque de réalité virtuelle, la chaise, un projecteur et les images générées par l'IA
 
 ## Expérience vécue
+<img src="parcours_visiteur.jpg" width="300">
 Dès que j'entre dans la salle, je vois l'oeuvre de techno-compost au loin.
 
 ## Ce qui m'a plu et me donne des idées
