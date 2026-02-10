@@ -1,11 +1,11 @@
 # Devenir partagés. Pratiques de l'IA.
 
 # Techno-compost 01 (Decomposition) / Techno-compost 02 (Le bruit RVB et l'espace latent en tant que jardin)
+<img src="photo/affiche_exposition.jpg" width="300">
 
 ## Lieu de mise en exposition
-<img src="photo/affiche_exposition.jpg" width="300">
 Galerie de l'Université de Montréal
-
+<img src="photo/selfie_devant_exposition.jpg" width="300">
 ## Type d'exposition
 Temporaire et intérieure
 
