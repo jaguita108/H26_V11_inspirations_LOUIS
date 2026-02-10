@@ -14,6 +14,7 @@ Temporaire et intérieure
 30 janvier 2026
 
 ## Titre de l'oeuvre
+<img src="photo/vue_ensemble.jpg" width="300">
 Techno-compost 01 (Decomposition) / Techno-compost 02 (Le bruit RVB et l'espace latent en tant que jardin)
 
 ## Nom de l'artiste
@@ -23,6 +24,7 @@ Marie Levasseur
 2025
 
 ## Description de l'oeuvre ou du dispositif
+<img src="photo/cartel.jpg" width="300">
 ### Techno-compost 01:
 Installation immersive de réalité virtuelle, impressions numériques sur tissu, bois, mousse de rembourrage, structure en acier, câbles à haut-parleur-transducteurs, ordinateur, modem, casques de RV et projection.
 Durée: indeterminée
