@@ -25,6 +25,7 @@ Marie Levasseur
 
 ## Description de l'oeuvre ou du dispositif
 <img src="photo/cartel.jpg" width="300">
+
 ### Techno-compost 01:
 Installation immersive de réalité virtuelle, impressions numériques sur tissu, bois, mousse de rembourrage, structure en acier, câbles à haut-parleur-transducteurs, ordinateur, modem, casques de RV et projection.
 Durée: indeterminée
