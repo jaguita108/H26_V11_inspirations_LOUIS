@@ -14,9 +14,8 @@ Temporaire et intérieure
 30 janvier 2026
 
 ## Titre de l'oeuvre
-<img src="photo/vue_ensemble.jpg" width="300">
-
-## Techno-compost 01 (Decomposition) / Techno-compost 02 (Le bruit RVB et l'espace latent en tant que jardin)
+<img src="photo/vue_ensemble_dispositif.jpg" width="300">
+Techno-compost 01 (Decomposition) / Techno-compost 02 (Le bruit RVB et l'espace latent en tant que jardin)
 
 ## Nom de l'artiste
 Marie Levasseur
@@ -38,6 +37,7 @@ Projection: promenade entre 15 vecteurs dans mon petit jardin d'espace latent
 Durée: 6min38
 
 ## Type d'installation:
+<img src="photo/vue_ensemble.jpg" width="300">
 Immersive et interactive
 
 ## Fonction du dispositif multimédia
