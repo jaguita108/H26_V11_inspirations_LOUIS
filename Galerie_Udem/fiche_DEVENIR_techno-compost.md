@@ -7,8 +7,10 @@
 ## Lieu de mise en exposition
 <img src="photo/selfie_devant_exposition.jpg" width="300">
 
-> Selfie devant l'exposition à la Galerie de L'Université de Montréal -Jayden Louis
 Galerie de l'Université de Montréal
+
+
+> Selfie devant l'exposition à la Galerie de L'Université de Montréal -Jayden Louis
 
 ## Type d'exposition
 Temporaire et intérieure
