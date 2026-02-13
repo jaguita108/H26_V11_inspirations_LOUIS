@@ -59,10 +59,12 @@ Montrer des images générées par l'IA à travers un casque de réalité virtue
 ## Mise en espace
 ![image](photo/croquis.png)
 
+> Croquis du dispositif -Jayden Louis
+
 ## Composantes et techniques
 <img src="photo/partie_composante.jpg" width="300">
 
-> Les paarties composantes du dispositif -Jayden Louis
+> Les parties composantes du dispositif -Jayden Louis
 
 Le casque de réalité virtuelle et la chaise
 
