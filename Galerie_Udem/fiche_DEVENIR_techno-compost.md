@@ -1,9 +1,9 @@
 # Devenir partagés. Pratiques de l'IA.
 
 # Techno-compost 01 (Decomposition) / Techno-compost 02 (Le bruit RVB et l'espace latent en tant que jardin)
-<img src="photo/affiche_exposition.jpg" width="300">
+<img src="photo/affiche_exposition_whilene_berbiche.jpg" width="300">
 
-> Affiche de l'exposition à la Galerie de L'Université de Montréal -Jayden Louis
+> Affiche de l'exposition à la Galerie de L'Université de Montréal -Wilhene Berbiche
 ## Lieu de mise en exposition
 <img src="photo/selfie_devant_exposition.jpg" width="300">
 
