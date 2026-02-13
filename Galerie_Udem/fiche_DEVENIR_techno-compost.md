@@ -21,7 +21,8 @@ Temporaire et intérieure
 ## Titre de l'oeuvre
 <img src="photo/vue_ensemble_dispositif.jpg" width="300">
 
-> Titre de l'oeuvre du dispositif -Jayden Louis <
+> Titre de l'oeuvre du dispositif -Jayden Louis
+
 Techno-compost 01 (Decomposition) / Techno-compost 02 (Le bruit RVB et l'espace latent en tant que jardin)
 
 ## Nom de l'artiste
