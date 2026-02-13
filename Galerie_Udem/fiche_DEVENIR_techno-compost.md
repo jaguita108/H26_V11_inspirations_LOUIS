@@ -84,10 +84,10 @@ Premièrement, j'ai remarqué que dans <<Techno-compost 01 (Decomposition)>>, le
 Deuxièmement, j'ai remarqué que dans <<Techno-compost 02 (Le bruit RVB et l'espace latent en tant que jardin)>> , il y a plusieurs formes abstraites. Je voyais des cables qui se dirigie vers le haut. Dans l'oeuvre, il y avait plein d'images générées par L'IA qui flottaient dans les airs mais cette fois je ne pouvais pas les prendre. Ces images là n'étaient pas très claire et il était difficile pour moi de savoir ce qu'elles représentaient. L'environnement était quand même abstrait, il y avait des câbles au dessus de moi et le sol était granuleux comme si il était bogué.
 
 ## Ce qui m'a plu et me donne des idées
-J'ai vraiment aimé le fait que l'oeuvre soit en réalité virtuelle, c'était original
+J'ai vraiment aimé le fait que l'oeuvre soit en réalité virtuelle, c'était original. Ce n'est pas souvent que des oeuvres d'arts soit dans un autre monde surtout un qui est virtuel!
 
 ## Aspect que je ne souhaiterais pas retenir pour mes propres créations
-Je mettrais plus d'intéractivité dans l'oeuvre
+Je mettrais plus d'intéractivité dans l'oeuvre. On puvait juste ramasser des photos qui tombaient par terre. Ce serait bien si on pourrait écrire nos propre instructions à l'ia pour qu'elle puisse générer ces images en temps réel.
 
 ## Voici le site web de l'artiste qui a créé cette oeuvre
 https://marieevelevasseur.com/techno-compost/
