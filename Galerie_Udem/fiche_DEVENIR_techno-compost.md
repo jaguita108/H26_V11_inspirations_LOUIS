@@ -2,7 +2,6 @@
 
 # Techno-compost 01 (Decomposition) / Techno-compost 02 (Le bruit RVB et l'espace latent en tant que jardin)
 <img src="photo/affiche_exposition.jpg" width="300">
-
 > Affiche de l'exposition
 
 
