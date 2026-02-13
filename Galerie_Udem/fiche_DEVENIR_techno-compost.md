@@ -56,7 +56,9 @@ Le casque de réalité virtuelle, la chaise, un projecteur et les images génér
 
 ## Expérience vécue
 <img src="photo/parcours_visiteur.jpg" width="300">
-Dès que j'entre dans la salle, je vois l'oeuvre de techno-compost au loin.
+Premièrement, j'ai remarqué que dans <<Techno-compost 01 (Decomposition)>>, les images étaient différentes. Les images dans cette oeuvre étaient des images d'insectes comme des abeilles, des araignées et des mouches et il  y avait aussi une image d'araignée robotique. J'ai toruvé ça plutôt étrange. Les images tombaient sur moi en réalité virutelle et je pouvais les prendre. 
+
+Deuxièmement, j'ai remarqué que dans <<Techno-compost 02 (Le bruit RVB et l'espace latent en tant que jardin)>> , il y a plusieurs formes abstraites. Je voyais des cables qui se dirigie vers le haut. Dans l'oeuvre, il y avait plein d'images générées par L'IA qui flottaient dans les airs mais cette fois je ne pouvais pas les prendre. Ces images là n'étaient pas très claire et il était difficile pour moi de savoir ce qu'elles représentaient. L'environnement était quand même abstrait, il y avait des câbles au dessus de moi et le sol était granuleux comme si il était bogué.
 
 ## Ce qui m'a plu et me donne des idées
 J'ai vraiment aimé le fait que l'oeuvre soit en réalité virtuelle, c'était original
@@ -69,11 +71,3 @@ https://marieevelevasseur.com/techno-compost/
 
 ## Voici le site de l'exposition
 https://galerie.umontreal.ca/devenirs-partagees-pratiques-de-lia.php
-
-
-
-## -Mes commentaires
-
-Premièrement, j'ai remarqué que dans <<Techno-compost 01 (Decomposition)>>, les images étaient différentes. Les images dans cette oeuvre étaient des images d'insectes comme des abeilles, des araignées et des mouches et il  y avait aussi une image d'araignée robotique. J'ai toruvé ça plutôt étrange. Les images tombaient sur moi en réalité virutelle et je pouvais les prendre. 
-
-Deuxièmement, j'ai remarqué que dans <<Techno-compost 02 (Le bruit RVB et l'espace latent en tant que jardin)>> , il y a plusieurs formes abstraites. Je voyais des cables qui se dirigie vers le haut. Dans l'oeuvre, il y avait plein d'images générées par L'IA qui flottaient dans les airs mais cette fois je ne pouvais pas les prendre. Ces images là n'étaient pas très claire et il était difficile pour moi de savoir ce qu'elles représentaient. L'environnement était quand même abstrait, il y avait des câbles au dessus de moi et le sol était granuleux comme si il était bogué. 
