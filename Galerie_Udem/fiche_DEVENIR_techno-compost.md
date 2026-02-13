@@ -6,6 +6,8 @@
 ## Lieu de mise en exposition
 <img src="photo/selfie_devant_exposition.jpg" width="300">
 Galerie de l'Université de Montréal
+<Aaa
+---
 
 ## Type d'exposition
 Temporaire et intérieure
