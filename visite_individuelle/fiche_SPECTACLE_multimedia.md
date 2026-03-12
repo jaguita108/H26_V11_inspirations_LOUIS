@@ -47,6 +47,7 @@ Les projecteurs, les casques d'écoute, les sièges, l'ajusteur de volume, le ch
 <img src="photo/sieges.jpg" width=500px>
 
 > Photo du casque d'écoute utilisé pour entendre le spectacle -Jayden Louis
+
 > Photo des sièges -Jayden Louis
 </p>
 
