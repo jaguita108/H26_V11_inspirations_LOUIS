@@ -46,7 +46,7 @@ Les projecteurs, les casques d'écoute, les sièges, l'ajusteur de volume, le ch
 J'étais dans une pièce similaire à celle d'un cinéma. Il y avait plusieurs siège dont on povait s'assir dessus. Sur la droite des sièges, il y a des casques stéréo. Il faut mettre un casque pour entendre le son de l'ouevre. Il était aussi possible de changer la langue de l'audio pour anglais ou français. Devant moi, il y avait plusieurs écrans scindés et il y avait aussi 3 autres écrans fait de vitre. Ces écrans là sont projeté grâce au reflet d'une vidéo. De plus, sur le bord des écrans il y avait des lumières qui se déplacaient et clignotaient comme des led. Le spectacle parlait de l'histoire de Montréal en général. Ça commencait par le 16e siècle et ça a fini à notre époque.
 
 <p align="center">
-<img src="photo/experience_vecue.jpg" width=500px>
+<img src="photo/experience_vecue.jpg" width=700px>
 
 </p>
 
