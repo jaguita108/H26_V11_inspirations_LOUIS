@@ -33,6 +33,7 @@ Contemplative et immersive
 Les projecteurs, les casques d'écoute et les lumières led.
 
 <img src="photo/casque-ecoute.jpg">
+
 <img src="photo/sieges">
 
 ## Expérience vécue
