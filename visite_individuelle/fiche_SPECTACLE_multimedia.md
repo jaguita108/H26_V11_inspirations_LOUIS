@@ -5,14 +5,6 @@
 <img src="photo/vue_ensemble.jpg" width=500px>
 >Vue d'ensemble du spectacle -Jayden Louis
 
-</p>
-
-
-<p align="center">
-  
-  
-</p>
-
 ## Lieu de mise exposition
 <p align="center">
 <img src="photo/selfie_entree.jpg" width=500px>
