@@ -5,7 +5,6 @@
 >Photo du titre du spectacle multimédia à Pointe-à-Callière -Jayden Louis
 
 <img src="photo/vue_ensemble.jpg" width=500px>
-
 > Vue d'ensemble du spectacle -Jayden Louis
 </p>
 
