@@ -34,7 +34,7 @@ Contemplative et immersive
 
 
 ## Composantes et techniques et éléments nécéssaires
-Les projecteurs, les casques d'écoute, les sièges,  et les lumières led.
+Les projecteurs, les casques d'écoute, les sièges, l'ajusteur de volume, le changeur de langue et les lumières led.
 
 <p align="center">
 <img src="photo/casque-ecoute.jpg" width=500px>
