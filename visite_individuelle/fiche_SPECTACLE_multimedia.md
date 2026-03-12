@@ -8,6 +8,7 @@
 ## Lieu de mise exposition
 <p align="center">
 <img src="photo/selfie_entree.jpg" width=500px>
+  
 Pointe-à-Callière
 </p>
 
