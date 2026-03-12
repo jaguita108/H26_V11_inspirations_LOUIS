@@ -7,7 +7,9 @@
 
 ## Lieu de mise exposition
 Pointe-à-Callière
-<img src="photo/selfie_entree.jpg">
+<p align="center">
+<img src="photo/selfie_entree.jpg" width=500px>
+</p>
 
 ## Type d'exposition
 Permanente et intérieure
