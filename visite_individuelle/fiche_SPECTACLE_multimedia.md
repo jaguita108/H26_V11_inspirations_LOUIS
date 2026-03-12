@@ -11,8 +11,6 @@ Permanente et intérieure
 ## Date de ma visite
 20 février 2026
 
-## Titre de l'oeuvre
-Spectacle multimédia Générations MTL
 
 ## Année de réalisation
 2019
