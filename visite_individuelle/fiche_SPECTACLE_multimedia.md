@@ -1,7 +1,7 @@
 # Spectacle multimédia Générations MTL fait par : TKNL, Studio LEX, El Toro Studio, 20K, et Troublemakers
 <p align="center">
-  <img src="photo/titre_oeuvre.jpg" width="350px">
-  <img src="photo/vue_ensemble.jpg" width="350px">
+  <img src="photo/titre_oeuvre.jpg" width="500px">
+  <img src="photo/vue_ensemble.jpg" width="500px">
 
   >Photo du titre du spectacle multimédia à Pointe-à-Callière - Jayden Louis  
   >Vue d'ensemble du spectacle - Jayden Louis
@@ -44,10 +44,9 @@ Les projecteurs, les casques d'écoute, les sièges, l'ajusteur de volume, le ch
 <p align="center">
 <img src="photo/casque-ecoute.jpg" width=500px>
 
-> Photo du casque d'écoute utilisé pour entendre le spectacle -Jayden Louis
-
 <img src="photo/sieges.jpg" width=500px>
 
+> Photo du casque d'écoute utilisé pour entendre le spectacle -Jayden Louis
 > Photo des sièges -Jayden Louis
 </p>
 
