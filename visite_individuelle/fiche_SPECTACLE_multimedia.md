@@ -2,6 +2,7 @@
 <p align="center">
 <img src="photo/titre_oeuvre.jpg" width=500px>
 
+>Photo du titre du spectacle multimédia à Pointe-à-Callière
 <img src="photo/vue_ensemble.jpg" width=500px>
 </p>
 
