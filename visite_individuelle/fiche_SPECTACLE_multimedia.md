@@ -1,5 +1,5 @@
 # Spectacle multimédia Générations MTL fait par : TKNL, Studio LEX, El Toro Studio, 20K, et Troublemakers
-<img src="photo/titre_oeuvre.jpg">
+<img src="photo/titre_oeuvre.jpg" width=500px>
 
 <img src="photo/vue_ensemble.jpg">
 
