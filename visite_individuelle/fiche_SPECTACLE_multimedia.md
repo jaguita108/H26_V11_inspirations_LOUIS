@@ -2,13 +2,18 @@
 <p align="center">
 <img src="photo/titre_oeuvre.jpg" width=500px>
 
->Photo du titre du spectacle multimédia à Pointe-à-Callière
+>Photo du titre du spectacle multimédia à Pointe-à-Callière -Jayden Louis
+
 <img src="photo/vue_ensemble.jpg" width=500px>
+
+> Vue d'ensemble du spectacle -Jayden Louis
 </p>
 
 ## Lieu de mise exposition
 <p align="center">
 <img src="photo/selfie_entree.jpg" width=500px>
+
+> Selfie devant l'entrée du musée -Jayden Louis
   
 Pointe-à-Callière
 </p>
@@ -41,7 +46,10 @@ Les projecteurs, les casques d'écoute, les sièges, l'ajusteur de volume, le ch
 <p align="center">
 <img src="photo/casque-ecoute.jpg" width=500px>
 
+> Photo du casque d'écoute utilisé pour entendre le spectacle -Jayden Louis
 <img src="photo/sieges.jpg" width=500px>
+
+> Photo des sièges -Jayden Louis
 </p>
 
 ## Expérience vécue
@@ -50,6 +58,7 @@ J'étais dans une pièce similaire à celle d'un cinéma. Il y avait plusieurs s
 <p align="center">
 <img src="photo/experience_vecue.jpg" width=700px>
 
+> Photo prise pendant le spectacle -Jayden Louis
 </p>
 
 ## Ce qui m'a plu
