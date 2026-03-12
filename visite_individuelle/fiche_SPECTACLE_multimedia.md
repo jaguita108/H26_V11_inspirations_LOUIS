@@ -8,8 +8,8 @@
 ## Lieu de mise exposition
 <p align="center">
 <img src="photo/selfie_entree.jpg" width=500px>
-</p>
 Pointe-à-Callière
+</p>
 
 ## Type d'exposition
 Permanente et intérieure
