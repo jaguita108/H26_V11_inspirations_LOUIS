@@ -4,9 +4,9 @@
 </p>
 
 <p align="center">
-  <em>Photo du titre du spectacle – Jayden Louis</em>  
+  >Photo du titre du spectacle – Jayden Louis</em>  
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <em>Vue d'ensemble du spectacle – Jayden Louis</em>
+  >Vue d'ensemble du spectacle – Jayden Louis</em>
 </p>
 
 ## Lieu de mise exposition
