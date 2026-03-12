@@ -6,10 +6,10 @@
 </p>
 
 ## Lieu de mise exposition
-Pointe-à-Callière
 <p align="center">
 <img src="photo/selfie_entree.jpg" width=500px>
 </p>
+Pointe-à-Callière
 
 ## Type d'exposition
 Permanente et intérieure
