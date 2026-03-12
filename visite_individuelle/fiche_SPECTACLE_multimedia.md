@@ -1,7 +1,7 @@
 # Spectacle multimédia Générations MTL fait par : TKNL, Studio LEX, El Toro Studio, 20K, et Troublemakers
 <img src="photo/titre_oeuvre.jpg" width=500px>
 
-<img src="photo/vue_ensemble.jpg">
+<img src="photo/vue_ensemble.jpg" width=500px>
 
 ## Lieu de mise exposition
 Pointe-à-Callière
