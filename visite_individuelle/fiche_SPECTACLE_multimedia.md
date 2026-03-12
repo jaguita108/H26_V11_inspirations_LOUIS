@@ -3,8 +3,8 @@
   <img src="photo/titre_oeuvre.jpg" width="350px">
   <img src="photo/vue_ensemble.jpg" width="350px">
 
-  Photo du titre du spectacle multimédia à Pointe-à-Callière - Jayden Louis  
-  Vue d'ensemble du spectacle - Jayden Louis
+  >Photo du titre du spectacle multimédia à Pointe-à-Callière - Jayden Louis  
+  >Vue d'ensemble du spectacle - Jayden Louis
 </p>
 
 ## Lieu de mise exposition
