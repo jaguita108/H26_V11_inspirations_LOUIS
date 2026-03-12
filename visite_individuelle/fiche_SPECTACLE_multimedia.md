@@ -5,8 +5,11 @@
 </p>
 
 <p align="center">
-  > Photo du titre du spectacle multimédia à Pointe-à-Callière - Jayden Louis  
+  
+  > Photo du titre du spectacle multimédia à Pointe-à-Callière - Jayden Louis
+
   > Vue d'ensemble du spectacle - Jayden Louis
+
 </p>
 
 ## Lieu de mise exposition
