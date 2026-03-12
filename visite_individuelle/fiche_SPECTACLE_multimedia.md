@@ -1,6 +1,6 @@
 # Spectacle multimédia Générations MTL fait par : TKNL, Studio LEX, El Toro Studio, 20K, et Troublemakers
 <p align="center">
-  <img src="photo/titre_oeuvre.jpg" width="300px"> >Photo du titre du spectacle – Jayden Louis <img src="photo/vue_ensemble.jpg" width="300px"> >Vue d'ensemble du spectacle – Jayden Louis</em>
+  <img src="photo/titre_oeuvre.jpg" width="300px"> >Photo du titre du spectacle – Jayden Louis <img src="photo/vue_ensemble.jpg" width="300px"> >Vue d'ensemble du spectacle – Jayden Louis
 </p>
 
 <p align="center">
