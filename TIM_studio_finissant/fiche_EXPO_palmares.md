@@ -1,6 +1,6 @@
 |:pencil2: Information recherchée  | :camera: Appui visuel à intégrer | Détails supplémentaires |
 | ---     | ---             | --- |
-| No ordre de préférence |1 : Terminal, 2 : Symbiose, 3 : Océan rouge, 4 : Mission décollage, 5 : Arbre en Face 6 : Quand les yeux se croisent | |
+| No ordre de préférence | |1 : Terminal, 2 : Symbiose, 3 : Océan rouge, 4 : Mission décollage, 5 : Arbre en Face 6 : Quand les yeux se croisent |
 | Titre du projet || |
 | Noms des créateurs et créatrices|| |
 | Installation en cours (ou finale)|photo de l'ensemble de l'installation dans le studio| |
