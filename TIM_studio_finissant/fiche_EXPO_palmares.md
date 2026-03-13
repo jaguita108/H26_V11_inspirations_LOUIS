@@ -26,7 +26,7 @@ En pensant à votre cheminement dans la formation en TIM
 | Titre du projet ||Symbiose |
 | Noms des créateurs et créatrices||Yannick Chamberland, Benjamin Ferland, Ryan Dufault et Walid Cheour. |
 | Installation en cours (ou finale)|<img src="photos/ensemble_installation_symbiose.webp"> Source : https://les-chimistes.github.io/symbiose/#/presse/| |
-| Schéma de l'installation prévue| schéma de mise en espace (*plantation* ou *implantation*)|télécharger le dessin à partir de la documentation GitHub de l'équipe, et indiquer la source dans la légende et le nom du fichier|
+| Schéma de l'installation prévue| <img src="photos/schema_symbiose.webp">|télécharger le dessin à partir de la documentation GitHub de l'équipe, et indiquer la source dans la légende et le nom du fichier|
 | Ce que vous ressentez en expérimentant chacune des installations, avec justification (avant/après l'expérimentation)|| |
 
 
