@@ -38,6 +38,13 @@ Contemplative et immersive
 
 ## Croquis
 
+<p align="center">
+<img src="photo/croquis.jpg" width=500px>
+
+> Croquis de l'exposition -Jayden Louis
+  
+Pointe-à-Callière
+</p>
 
 ## Composantes et techniques et éléments nécéssaires
 Les projecteurs, les casques d'écoute, les sièges, l'ajusteur de volume, le changeur de langue et les lumières led.
