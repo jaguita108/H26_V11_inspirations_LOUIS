@@ -55,8 +55,7 @@ Les projecteurs, les casques d'écoute, les sièges, l'ajusteur de volume, le ch
 </p>
 
 ## Expérience vécue
-J'étais dans une pièce similaire à celle d'un cinéma. Il y avait plusieurs siège dont on povait s'assir dessus. Sur la droite des sièges, il y a des casques stéréo. Il faut mettre un casque pour entendre le son de l'ouevre. Il était aussi possible de changer la langue de l'audio pour anglais ou français. Devant moi, il y avait plusieurs écrans scindés et il y avait aussi 3 autres écrans fait de vitre. Ces écrans là sont projeté grâce au reflet d'une vidéo. De plus, sur le bord des écrans il y avait des lumières qui se déplacaient et clignotaient comme des led. Le spectacle parlait de l'histoire de Montréal en général. Ça commencait par le 16e siècle et ça a fini à notre époque.
-
+J’étais dans une pièce semblable à une salle de cinéma. Il y avait plusieurs sièges sur lesquels on pouvait s’asseoir. À droite des sièges, on trouvait des casques stéréo. Il fallait en mettre un pour entendre le son de l’œuvre. Il était aussi possible de changer la langue de l’audio, soit en anglais soit en français. Devant moi, il y avait plusieurs écrans divisés, ainsi que trois autres écrans faits de verre. Il y avait aussi trois écrans en verre sur lesquels l’image apparaissait grâce à un système de projection et de reflet. De plus, sur les bords des écrans, des lumières se déplaçaient et clignotaient comme des LED. Le spectacle racontait l’histoire de Montréal en général. Il commençait au XVIe siècle et se terminait à notre époque.
 <p align="center">
 <img src="photo/experience_vecue.jpg" width=700px>
 
@@ -64,10 +63,10 @@ J'étais dans une pièce similaire à celle d'un cinéma. Il y avait plusieurs s
 </p>
 
 ## Ce qui m'a plu
-J'ai aimé que des écouteurs soit fourni, car ça rend une expérience différente qu'aux cinémas traditionnels. J'ai aussi aimé les écrans scindés, car cela donnait l'opportunité de montrer différentes images en même temps sans que ça soit trop forcé.
+J’ai aimé que des écouteurs soient fournis, car cela offre une expérience différente de celle des cinémas traditionnels. J’ai aussi apprécié les écrans scindés, parce qu’ils permettaient de montrer différentes images en même temps sans que ce soit trop forcé.
 
 ## Ce que je changerais ou améliorerais
-Je ferais que les chaises bougent pendant l'exposition. Similaire au D-BOX au cinéma quand les chaises vibres selon ce qui a devant l'écran. Je changerais aussi les casques qu'ils fournissent. À mon avis, ils ne sont pas très confortable et leur qualité n'est pas très bonne.
+Je ferais en sorte que les chaises bougent pendant l’exposition, un peu comme les sièges D-BOX au cinéma, qui vibrent selon ce qui se passe à l’écran. Je changerais aussi les casques fournis, car à mon avis ils ne sont pas très confortables et leur qualité n’est pas très bonne.
 
 ## Sites web des studios qui ont créé ce spectacle
 - https://www.eltorostudio.com/generations-mtl/
