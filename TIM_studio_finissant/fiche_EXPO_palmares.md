@@ -25,7 +25,7 @@ En pensant à votre cheminement dans la formation en TIM
 | No ordre de préférence ||2 |
 | Titre du projet ||Symbiose |
 | Noms des créateurs et créatrices||Yannick Chamberland, Benjamin Ferland, Ryan Dufault et Walid Cheour. |
-| Installation en cours (ou finale)|<img src="photos/ensemble_installation_symbiose.webp"> Source : https://les-chimistes.github.io/symbiose/#/presse/| |
+| Installation en cours (ou finale)|<img src="photos/ensemble_installation_symbiose.webp"> Source : https://les-chimistes.github.io/symbiose/#/presse/|Il y a une table avec 4 dispositifs dessus. Étant donné que c'est un jeu à quatre, chacun des joueurs doivent controller un dispositif chacun. Devant la table, il y a la projection pour que les joueurs voient leurs progrès.  |
 | Schéma de l'installation prévue| <img src="photos/schema_symbiose.webp">|Source : https://les-chimistes.github.io/symbiose/#/technique/ Nom du fichier : photos/schema_symbiose.webp|
 | Ce que vous ressentez en expérimentant chacune des installations, avec justification (avant/après l'expérimentation)|| |
 
