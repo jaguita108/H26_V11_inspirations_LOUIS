@@ -9,7 +9,7 @@
 
   >Vue d'ensemble du spectacle - Jayden Louis
 
-  >Selfie devant l'entrée du musée -Jayden Louis
+  >Selfie devant l'entrée du musée - Jayden Louis
 </p>
 
 ## Type d'exposition
@@ -37,29 +37,29 @@ Contemplative et immersive
 <p align="center">
 <img src="photo/croquis.jpg" width=700px>
 
-> Croquis de l'exposition -Jayden Louis
+> Croquis de l'exposition - Jayden Louis
   
 </p>
 
-## Composantes et techniques et éléments nécéssaires
-Les projecteurs, les casques d'écoute, les sièges, l'ajusteur de volume, le changeur de langue et les lumières led.
+## Composantes et techniques et éléments nécessaires
+Les projecteurs, les casques d'écoute, les sièges, l'ajusteur de volume, le changeur de langue et les lumières LED.
 
 <p align="center">
 <img src="photo/casque-ecoute.jpg" width=500px>
 
 <img src="photo/sieges.jpg" width=500px>
 
-> Photo du casque d'écoute utilisé pour entendre le spectacle -Jayden Louis
+> Photo du casque d'écoute utilisé pour entendre le spectacle - Jayden Louis
 
-> Photo des sièges -Jayden Louis
+> Photo des sièges - Jayden Louis
 </p>
 
 ## Expérience vécue
-J’étais dans une pièce semblable à une salle de cinéma. Il y avait plusieurs sièges sur lesquels on pouvait s’asseoir. À droite des sièges, on trouvait des casques stéréo. Il fallait en mettre un pour entendre le son de l’œuvre. Il était aussi possible de changer la langue de l’audio, soit en anglais soit en français. Devant moi, il y avait plusieurs écrans divisés, ainsi que trois autres écrans faits de verre. Il y avait aussi trois écrans en verre sur lesquels l’image apparaissait grâce à un système de projection et de reflet. De plus, sur les bords des écrans, des lumières se déplaçaient et clignotaient comme des LED. Le spectacle racontait l’histoire de Montréal en général. Il commençait au XVIe siècle et se terminait à notre époque.
+J’étais dans une pièce semblable à une salle de cinéma. Il y avait plusieurs sièges sur lesquels on pouvait s’asseoir. À droite des sièges, on trouvait des casques stéréo. Il fallait en mettre un pour entendre le son de l’œuvre. Il était aussi possible de changer la langue de l’audio, soit en anglais soit en français. Devant moi, il y avait plusieurs écrans divisés, ainsi que trois autres écrans faits de verre. L’image apparaissait sur les écrans en verre grâce à un système de projection et de reflet. De plus, sur les bords des écrans, des lumières se déplaçaient et clignotaient comme des lumières LED. Le spectacle racontait l’histoire de Montréal, du XVIe siècle jusqu’à aujourd’hui.
 <p align="center">
 <img src="photo/experience_vecue.jpg" width=700px>
 
-> Photo prise pendant le spectacle -Jayden Louis
+> Photo prise pendant le spectacle - Jayden Louis
 </p>
 
 ## Ce qui m'a plu
