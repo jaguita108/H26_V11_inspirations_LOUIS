@@ -39,7 +39,7 @@ Contemplative et immersive
 ## Croquis
 
 <p align="center">
-<img src="photo/croquis.jpg" width=500px>
+<img src="photo/croquis.jpg" width=700px>
 
 > Croquis de l'exposition -Jayden Louis
   
