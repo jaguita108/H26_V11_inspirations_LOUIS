@@ -43,7 +43,6 @@ Contemplative et immersive
 
 > Croquis de l'exposition -Jayden Louis
   
-Pointe-à-Callière
 </p>
 
 ## Composantes et techniques et éléments nécéssaires
