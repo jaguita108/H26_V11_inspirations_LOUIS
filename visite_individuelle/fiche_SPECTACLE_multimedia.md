@@ -1,9 +1,9 @@
 # Pointe-à-Callière
 ## Spectacle multimédia Générations MTL fait par : TKNL, Studio LEX, El Toro Studio, 20K, et Troublemakers
 <p align="center">
-  <img src="photo/titre_oeuvre.jpg" width="500px">
-  <img src="photo/vue_ensemble.jpg" width="500px">
-  <img src="photo/selfie_entree.jpg" width=500px>
+  <img src="photo/titre_oeuvre.jpg" width="300px">
+  <img src="photo/vue_ensemble.jpg" width="300px">
+  <img src="photo/selfie_entree.jpg" width=300px>
 
   >Photo du titre du spectacle multimédia à Pointe-à-Callière - Jayden Louis
 
