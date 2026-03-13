@@ -4,7 +4,7 @@
 | Titre du projet ||Terminal |
 | Noms des créateurs et créatrices||Émeryk Bélisle, Elie Daher, Ting Yung Lu Terry, Dana Saavedra-Torrano et Mégane Ranger|
 | Installation en cours (ou finale)|<img src="photos/ensemble_installation_terminal.jpg">|Il y a 6 poufs pour que les joueurs s'assoient dessus. Devant les joueurs il y a la projection qui montre le jeu terminal. À droite de la projection il y a un code qr qu'il faut scanner pour entrer dans le jeu. |
-| Schéma de l'installation prévue| <img src="schema_terminal.png">|télécharger le dessin à partir de la documentation GitHub de l'équipe, et indiquer la source dans la légende et le nom du fichier|
+| Schéma de l'installation prévue| <img src="photos/schema_terminal.png">|télécharger le dessin à partir de la documentation GitHub de l'équipe, et indiquer la source dans la légende et le nom du fichier|
 | Ce que vous ressentez en expérimentant chacune des installations, avec justification (avant/après l'expérimentation)||Avant |
 
 
