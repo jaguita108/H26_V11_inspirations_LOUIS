@@ -5,7 +5,7 @@
 | Noms des créateurs et créatrices||Émeryk Bélisle, Elie Daher, Ting Yung Lu Terry, Dana Saavedra-Torrano et Mégane Ranger|
 | Installation en cours (ou finale)|<img src="photos/ensemble_installation_terminal.jpg">|Il y a 6 poufs pour que les joueurs s'assoient dessus. Devant les joueurs il y a la projection qui montre le jeu terminal. À droite de la projection il y a un code qr qu'il faut scanner pour entrer dans le jeu. |
 | Schéma de l'installation prévue| <img src="photos/schema_terminal.png">|télécharger le dessin à partir de la documentation GitHub de l'équipe, et indiquer la source dans la légende et le nom du fichier|
-| Ce que vous ressentez en expérimentant chacune des installations, avec justification (avant/après l'expérimentation)||Avant : Je ne savais pas vraiment à quoi m'attendre mais j'étais tout de même intéressé à essayer ce jeu collaboratif. Après : J'ai trouvé l'oeuvre intéressante je me suis bien amusé à la joeur avec des amis. C'est un jeu simple, mais très bon. |
+| Ce que vous ressentez en expérimentant chacune des installations, avec justification (avant/après l'expérimentation)||Avant: Je ne savais pas vraiment à quoi m'attendre mais j'étais tout de même intéressé à essayer ce jeu collaboratif. Après : J'ai trouvé l'oeuvre intéressante je me suis bien amusé à la joeur avec des amis. C'est un jeu simple, mais très bon. |
 
 
 
