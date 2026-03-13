@@ -70,9 +70,9 @@ J'ai aimé que des écouteurs soit fourni, car ça rend une expérience différe
 Je ferais que les chaises bougent pendant l'exposition. Similaire au D-BOX au cinéma quand les chaises vibres selon ce qui a devant l'écran. Je changerais aussi les casques qu'ils fournissent. À mon avis, ils ne sont pas très confortable et leur qualité n'est pas très bonne.
 
 ## Sites web des studios qui ont créé ce spectacle
-https://www.eltorostudio.com/generations-mtl/
-https://www.tknl.com/projet-experiences/generations-mtl-pointe-a-calliere-cite-archeologie-d-histoire
-http://lexstudio.ca/
-https://20k.ca/en/projects/musee-pointe-a-calliere/
-https://troublemakers.ca/generations-mtl-fr/
+- https://www.eltorostudio.com/generations-mtl/
+- https://www.tknl.com/projet-experiences/generations-mtl-pointe-a-calliere-cite-archeologie-d-histoire
+- http://lexstudio.ca/
+- https://20k.ca/en/projects/musee-pointe-a-calliere/
+- https://troublemakers.ca/generations-mtl-fr/
 
