@@ -1,2 +1,2 @@
-Ce dossier contiendera les photos de ma visite à Pointe-à-Callière
+Ce dossier contiendera les photos que j'ai prise pendant de ma visite à Pointe-à-Callière.
 
