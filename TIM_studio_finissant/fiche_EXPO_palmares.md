@@ -61,12 +61,12 @@ En pensant à votre cheminement dans la formation en TIM
   |  Nommer 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce genre de projet (voir la [grille de cours du programme](https://www.cmontmorency.qc.ca/programmes/nos-programmes-detudes/techniques/techniques-dintegration-multimedia/grille-de-cours/)) ||Audio, illustration numérique et modélisation 3D |
   | Nommer et décrire une technique **ou** une composante technologique qui est utilisée dans l'**un des projets** et que vous ne connaissiez pas. |photo ou croquis de la technique ou composante|Je ne connaissait pas le contrôleur Arduino M5Stack ATOM Lite ESP32. Il est utilisé pour les projets nécessitant un contrôleur embarqué fiable et flexible. Source : https://fr.manuals.plus/m5stack/atom-s3u-programmable-controller-manual |
 
- # Arbre en face
+ # Océan rouge
  |:pencil2: Information recherchée  | :camera: Appui visuel à intégrer | Détails supplémentaires |
 | ---     | ---             | --- |
-| No ordre de préférence || |
-| Titre du projet || |
-| Noms des créateurs et créatrices|| |
+| No ordre de préférence || 4|
+| Titre du projet ||Océan rouge |
+| Noms des créateurs et créatrices||Amira Tounekti et Kristy Moussally |
 | Installation en cours (ou finale)|photo de l'ensemble de l'installation dans le studio| |
 | Schéma de l'installation prévue| schéma de mise en espace (*plantation* ou *implantation*)||
 | Ce que vous ressentez en expérimentant chacune des installations, avec justification (avant/après l'expérimentation)|| |
