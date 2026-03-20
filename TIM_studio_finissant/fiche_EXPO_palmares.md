@@ -47,7 +47,7 @@ En pensant à votre cheminement dans la formation en TIM
 | Titre du projet ||Mission décollage |
 | Noms des créateurs et créatrices||Ahmed Kaissoumi, Radhouane Kordan, Justin Montpetit, Thearylou Lach et Jad Saloumi |
 | Installation en cours (ou finale)|photo de l'ensemble de l'installation dans le studio|Il y a un panneau de contrôle pour piloter le vaisseau et la projection est devant le joueur. Sur le panneau de contrôle, il y a des boutons pour contrôller le vaisseau. Il y a des boutons ppour changer la vitesse, se déplacer à gauche et à droite, un bouton pour mettre un bouclier sur le vaisseau, etc. |
-| Schéma de l'installation prévue|<img src="photos/schema_mission.png"> |télécharger le dessin à partir de la documentation GitHub de l'équipe, et indiquer la source dans la légende et le nom du fichier|
+| Schéma de l'installation prévue|<img src="photos/schema_mission.png"> |Source : https://o-i-g-n-o-n.github.io/Mission-decollage/#/technique/ Nom du fichier : schema_mission.png|
 | Ce que vous ressentez en expérimentant chacune des installations, avec justification (avant/après l'expérimentation)|| |
 
 
@@ -68,7 +68,7 @@ En pensant à votre cheminement dans la formation en TIM
 | Titre du projet || |
 | Noms des créateurs et créatrices|| |
 | Installation en cours (ou finale)|photo de l'ensemble de l'installation dans le studio| |
-| Schéma de l'installation prévue| schéma de mise en espace (*plantation* ou *implantation*)|télécharger le dessin à partir de la documentation GitHub de l'équipe, et indiquer la source dans la légende et le nom du fichier|
+| Schéma de l'installation prévue| schéma de mise en espace (*plantation* ou *implantation*)||
 | Ce que vous ressentez en expérimentant chacune des installations, avec justification (avant/après l'expérimentation)|| |
 
 
