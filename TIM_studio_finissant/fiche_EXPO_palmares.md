@@ -68,7 +68,7 @@ En pensant à votre cheminement dans la formation en TIM
 | Titre du projet ||Océan rouge |
 | Noms des créateurs et créatrices||Amira Tounekti et Kristy Moussally |
 | Installation en cours (ou finale)|<img src="photos/ensemble_installation_ocean_rouge.jpg">|L'installation est similaire à une arcade et il y a un joystick pour contrôller l'aspirateur de déchets. |
-| Schéma de l'installation prévue| ||
+| Schéma de l'installation prévue|<img src="photos/schema_ocean.png"> ||
 | Ce que vous ressentez en expérimentant chacune des installations, avec justification (avant/après l'expérimentation)|| |
 
 
