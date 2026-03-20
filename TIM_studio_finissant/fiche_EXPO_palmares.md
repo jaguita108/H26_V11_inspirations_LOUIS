@@ -67,7 +67,7 @@ En pensant à votre cheminement dans la formation en TIM
 | No ordre de préférence || 4|
 | Titre du projet ||Océan rouge |
 | Noms des créateurs et créatrices||Amira Tounekti et Kristy Moussally |
-| Installation en cours (ou finale)|<img src="photos/vue_ensemble_ocean_rouge.jpg">| |
+| Installation en cours (ou finale)|<img src="photos/ensemble_installation_ocean_rouge.jpg">| |
 | Schéma de l'installation prévue| schéma de mise en espace (*plantation* ou *implantation*)||
 | Ce que vous ressentez en expérimentant chacune des installations, avec justification (avant/après l'expérimentation)|| |
 
