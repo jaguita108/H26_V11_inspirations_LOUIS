@@ -43,8 +43,8 @@ En pensant à votre cheminement dans la formation en TIM
   # Mission décollage
  |:pencil2: Information recherchée  | :camera: Appui visuel à intégrer | Détails supplémentaires |
 | ---     | ---             | --- |
-| No ordre de préférence || |
-| Titre du projet || |
+| No ordre de préférence ||3|
+| Titre du projet ||Mission décollage |
 | Noms des créateurs et créatrices|| |
 | Installation en cours (ou finale)|photo de l'ensemble de l'installation dans le studio| |
 | Schéma de l'installation prévue| schéma de mise en espace (*plantation* ou *implantation*)|télécharger le dessin à partir de la documentation GitHub de l'équipe, et indiquer la source dans la légende et le nom du fichier|
