@@ -110,8 +110,8 @@ En pensant à votre cheminement dans la formation en TIM
 | Titre du projet ||Arbre en Face |
 | Noms des créateurs et créatrices||Alexandre Gendron, Mikael Arseneau, Mathieu Willett, Matis Ghariani et Rafael Angon Dube |
 | Installation en cours (ou finale)|<img src="photos/ensemble_installation_arbre.jpg">|Cette installation est intéractive. Elle consiste à faire pousser des fleurs avec des images de visage dessus. Ces images sont prise grâce à des caméras à l'entrée du grand studio. Il y aussi un écran projeté et une caméra au dessus qui capte si tu touche la projection. |
-| Schéma de l'installation prévue|<img src="photos/schema_arbre.jpg"> |télécharger le dessin à partir de la documentation GitHub de l'équipe, et indiquer la source dans la légende et le nom du fichier|
-| Ce que vous ressentez en expérimentant chacune des installations, avec justification (avant/après l'expérimentation)|| |
+| Schéma de l'installation prévue|<img src="photos/schema_arbre.jpg"> |Source : https://mammouths.github.io/projet/#/technique/ Nom du fichier : schema_arbre.jpg|
+| Ce que vous ressentez en expérimentant chacune des installations, avec justification (avant/après l'expérimentation)||Avant, je ne comprenais pas comment utiliser le dispositif et son intérêt. Après, j'ai compris comment il fonctionnait, il faut juste tirer les fleurs vers le haut pour les faire pousser. |
 
 
 
@@ -121,5 +121,5 @@ En pensant à votre cheminement dans la formation en TIM
   
   |:pencil2: Information recherchée  | :camera: Appui visuel à intégrer | Détails supplémentaires |
   | ---     | ---             | --- |
-  |  Nommer 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce genre de projet (voir la [grille de cours du programme](https://www.cmontmorency.qc.ca/programmes/nos-programmes-detudes/techniques/techniques-dintegration-multimedia/grille-de-cours/)) || |
+  |  Nommer 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce genre de projet (voir la [grille de cours du programme](https://www.cmontmorency.qc.ca/programmes/nos-programmes-detudes/techniques/techniques-dintegration-multimedia/grille-de-cours/)) ||Programmation intéractive, Vidéo et Audio |
   | Nommer et décrire une technique **ou** une composante technologique qui est utilisée dans l'**un des projets** et que vous ne connaissiez pas. |photo ou croquis de la technique ou composante|Indiquer la source de l'information pour cette recherche |
