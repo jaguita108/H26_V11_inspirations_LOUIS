@@ -89,7 +89,7 @@ En pensant à votre cheminement dans la formation en TIM
 | Titre du projet ||Quand les yeux se croisent |
 | Noms des créateurs et créatrices||Edelwyn Ledru, Félix Lavoie, Jade Hébert, Manel Yaya et Patricia Nassif|
 | Installation en cours (ou finale)|<img src="photos/ensemble_installation_quand.jpg">|C'est une installation ou il y a 4 télévisions cathodiques et deux caméras. Il y aussi un spot de lumière et quand quelqu'un va dessus on voit son oeil affiché sur la télévision. |
-| Schéma de l'installation prévue| schéma de mise en espace (*plantation* ou *implantation*)|télécharger le dessin à partir de la documentation GitHub de l'équipe, et indiquer la source dans la légende et le nom du fichier|
+| Schéma de l'installation prévue|<img src="photos/schema_quand.jpg">|télécharger le dessin à partir de la documentation GitHub de l'équipe, et indiquer la source dans la légende et le nom du fichier|
 | Ce que vous ressentez en expérimentant chacune des installations, avec justification (avant/après l'expérimentation)|| |
 
 
