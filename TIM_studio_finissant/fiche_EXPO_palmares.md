@@ -110,7 +110,7 @@ En pensant à votre cheminement dans la formation en TIM
 | Titre du projet ||Arbre en Face |
 | Noms des créateurs et créatrices||Alexandre Gendron, Mikael Arseneau, Mathieu Willett, Matis Ghariani et Rafael Angon Dube |
 | Installation en cours (ou finale)|<img src="photos/ensemble_installation_arbre.jpg">|Cette installation est intéractive. Elle consiste à faire pousser des fleurs avec des images de visage dessus. Ces images sont prise grâce à des caméras à l'entrée du grand studio. Il y aussi un écran projeté et une caméra au dessus qui capte si tu touche la projection. |
-| Schéma de l'installation prévue| schéma de mise en espace (*plantation* ou *implantation*)|télécharger le dessin à partir de la documentation GitHub de l'équipe, et indiquer la source dans la légende et le nom du fichier|
+| Schéma de l'installation prévue|<img src="photos/schema_arbre.jpg"> |télécharger le dessin à partir de la documentation GitHub de l'équipe, et indiquer la source dans la légende et le nom du fichier|
 | Ce que vous ressentez en expérimentant chacune des installations, avec justification (avant/après l'expérimentation)|| |
 
 
