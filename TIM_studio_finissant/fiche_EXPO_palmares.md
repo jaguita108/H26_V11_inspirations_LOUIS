@@ -122,4 +122,4 @@ En pensant à votre cheminement dans la formation en TIM
   |:pencil2: Information recherchée  | :camera: Appui visuel à intégrer | Détails supplémentaires |
   | ---     | ---             | --- |
   |  Nommer 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce genre de projet (voir la [grille de cours du programme](https://www.cmontmorency.qc.ca/programmes/nos-programmes-detudes/techniques/techniques-dintegration-multimedia/grille-de-cours/)) ||Programmation intéractive, Vidéo et Audio |
-  | Nommer et décrire une technique **ou** une composante technologique qui est utilisée dans l'**un des projets** et que vous ne connaissiez pas. |<img src="photos/transmetteur_cat6.jpg">|Indiquer la source de l'information pour cette recherche |
+  | Nommer et décrire une technique **ou** une composante technologique qui est utilisée dans l'**un des projets** et que vous ne connaissiez pas. |<img src="photos/transmetteur_cat6.jpg">|Le transmetteur cat6 sert à transmettre des données à haute vitesse. Source : https://www.pchardwarepro.com/fr/que-signifie-cat6/ |
