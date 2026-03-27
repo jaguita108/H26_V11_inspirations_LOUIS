@@ -68,8 +68,8 @@ En pensant à votre cheminement dans la formation en TIM
 | Titre du projet ||Océan rouge |
 | Noms des créateurs et créatrices||Amira Tounekti et Kristy Moussally |
 | Installation en cours (ou finale)|<img src="photos/ensemble_installation_ocean_rouge.jpg">|L'installation est similaire à une arcade et il y a un joystick pour contrôller l'aspirateur de déchets. |
-| Schéma de l'installation prévue|<img src="photos/schema_ocean.png"> ||
-| Ce que vous ressentez en expérimentant chacune des installations, avec justification (avant/après l'expérimentation)|| |
+| Schéma de l'installation prévue|<img src="photos/schema_ocean.png"> |Source : https://deux-intelligence.github.io/deux-neurones/#/technique/ Nom du fichier : schema_ocean.png|
+| Ce que vous ressentez en expérimentant chacune des installations, avec justification (avant/après l'expérimentation)||Avant, J'étais pas si intéressé par le dispositif. Mais après l'avoir essayé je l'ai trouvé quand même amusant. J'aimait ramasser les déchets qui tombaient. |
 
 
 
@@ -79,7 +79,7 @@ En pensant à votre cheminement dans la formation en TIM
   
   |:pencil2: Information recherchée  | :camera: Appui visuel à intégrer | Détails supplémentaires |
   | ---     | ---             | --- |
-  |  Nommer 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce genre de projet (voir la [grille de cours du programme](https://www.cmontmorency.qc.ca/programmes/nos-programmes-detudes/techniques/techniques-dintegration-multimedia/grille-de-cours/)) || |
+  |  Nommer 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce genre de projet (voir la [grille de cours du programme](https://www.cmontmorency.qc.ca/programmes/nos-programmes-detudes/techniques/techniques-dintegration-multimedia/grille-de-cours/)) ||Programmation intéractive, Animation 2D et Modélisation 3D |
   | Nommer et décrire une technique **ou** une composante technologique qui est utilisée dans l'**un des projets** et que vous ne connaissiez pas. |photo ou croquis de la technique ou composante|Indiquer la source de l'information pour cette recherche |
 
   # Quand les yeux se croisent
