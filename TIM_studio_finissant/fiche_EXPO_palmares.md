@@ -90,7 +90,7 @@ En pensant à votre cheminement dans la formation en TIM
 | Noms des créateurs et créatrices||Edelwyn Ledru, Félix Lavoie, Jade Hébert, Manel Yaya et Patricia Nassif|
 | Installation en cours (ou finale)|<img src="photos/ensemble_installation_quand.jpg">|C'est une installation ou il y a 4 télévisions cathodiques et deux caméras. Il y aussi un spot de lumière et quand quelqu'un va dessus on voit son oeil affiché sur la télévision. |
 | Schéma de l'installation prévue|<img src="photos/schema_quand.jpg">|Source : https://emersiaa.github.io/Quand-les-yeux-se-croisent/#/technique/ Nom du fichier : schema_quand.jpg|
-| Ce que vous ressentez en expérimentant chacune des installations, avec justification (avant/après l'expérimentation)|| |
+| Ce que vous ressentez en expérimentant chacune des installations, avec justification (avant/après l'expérimentation)||Avant, je ne savais pas à quoi m'attendre à expérimenter dans ce dispositif. Après l'avoir essayé, j'ai apprécié l'oeuvre en tant que tel, j'étais surpris que la caméra puisse savoir ou mon oeil était. |
 
 
 
