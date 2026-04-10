@@ -1,4 +1,5 @@
 # NANUALUK Expédition Nordique
+## Une glace fragile fait par : GSM Studios
 
 ## Lieu de mise en exposition
 Au Centre des sciences de Montréal
@@ -9,5 +10,5 @@ Temporaire
 ## Date de ma visite
 1er Avril 2026
 
-## Titre du dispositif
+
 
