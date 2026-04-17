@@ -36,6 +36,7 @@ Pour commencer, le but de l'exposition est de faire plein de tâches à accompli
 ## Composante, techniques et éléments nécéssaires
 Deux écrans. Un pour le jeu et l'autre pour montrer les consignes. Le harpon mécanique, le bouton sur le harpon aussi. Le scanner pour le nanuup tuminga et les haut parleurs. Il y a aussi les lumières.
 
+<p align="center">
 <img src="photo/partie_composante_1.jpg" width="330px">
 <img src="photo/partie_composante_2.jpg" width="330px">
 <img src="photo/partie_composante_3.jpg" width="330px">
@@ -44,7 +45,7 @@ Deux écrans. Un pour le jeu et l'autre pour montrer les consignes. Le harpon m�
 <img src="photo/partie_composante_6.jpg" width="330px">
 <img src="photo/partie_composante_7.jpg" width="330px">
 <img src="photo/partie_composante_8.jpg" width="330px">
-
+</p>
 ## Éxpérience vécue
 J'entre dans l'exposition et je vois un grand écran qui explique comment utiliser les dispositifs. En continuant tout droit, on peut voir des petites cartes qui s'appellent des nanuup tuminga et on doit les scanner sur un scanner pour choisir la langue. Il y en avait un en français et l'autre était en anglais. J'ai choisi français.
  Ensuite, je vois un dispositif qui s'appelle "Une glace fragile". Je scanne mon nanuup tuminga et un personnage m'explique ce qu'il faut faire. Il me de dit que je dois traverser la glace pour atteindre mon village. À la gauche de se dispositif, il y en avait un autre qui était directement lié à celui-ci. Ce dispositif présente un harpon qui qui peut se faire pousser vers le bas et se pivoter aussi. 
