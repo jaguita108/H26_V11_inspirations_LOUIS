@@ -39,7 +39,7 @@ Deux √©crans. Un pour le jeu et l'autre pour montrer les consignes. Le harpon m√
 <p align="center">
 <img src="photo/partie_composante_1.jpg" width="330px">
 <img src="photo/partie_composante_2.jpg" width="330px">
-<img src="photo/partie_composante_3.jpg" width="330px">
+
 <img src="photo/partie_composante_4.jpg" width="330px">
 <img src="photo/partie_composante_5.jpg" width="330px">
 <img src="photo/partie_composante_6.jpg" width="330px">
