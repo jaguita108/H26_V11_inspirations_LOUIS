@@ -22,6 +22,9 @@ Permanente
 <img src="photo/texte_explicatif_1.jpg" width="330px">
 <img src="photo/texte_explicatif_2.jpg" width="330px">
 </p>
+Pour utiliser le nanuup tuminga : 1- DÉBUTE : DÉMARRE une mission avec ton nanuup tuminga. 2- EXPLORE : EXPLORE toute la salle pour accomplir la mission. 3- RAPPORTE : REVIENS voir le personnage pour vérifier si tu as bien rempli ta mission. 4- COLLECTE : COLLECTE  ta récompense !
+
+Pour jouer : 1 : Utilise ton nanuuo tuminga pour débuter une mission. 2 : Explore toute la salle pour accomplir ta mission.
 
 ## Type d'installation
 Interactive
