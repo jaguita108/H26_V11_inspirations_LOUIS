@@ -18,7 +18,10 @@ Permanente
 2025
 
 ## Description de l'oeuvre
-
+<p align="center">
+<img src="photo/texte_explicatif_1.jpg" width="330px">
+<img src="photo/texte_explicatif_2.jpg" width="330px">
+</p>
 
 ## Type d'installation
 Interactive
