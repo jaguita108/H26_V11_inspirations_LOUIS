@@ -1,6 +1,7 @@
 # NANUALUK Expédition Nordique
 ## Une glace fragile fait par : GSM Studios
 <img src="photo/affiche_exposition.jpg" width="330px">
+
 ## Lieu de mise en exposition
 Au Centre des sciences de Montréal
 
