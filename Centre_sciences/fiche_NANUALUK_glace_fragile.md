@@ -41,7 +41,7 @@ Deux √©crans. Un pour le jeu et l'autre pour montrer les consignes. Le harpon m√
 <img src="photo/partie_composante_4.jpg" width="330px">
 <img src="photo/partie_composante_5.jpg" width="330px">
 <img src="photo/partie_composante_6.jpg" width="330px">
-<img src="photo/partie_composante_7.jpg" width="330px">
+
 <img src="photo/partie_composante_8.jpg" width="330px">
 
 
