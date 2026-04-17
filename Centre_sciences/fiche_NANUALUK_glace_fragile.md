@@ -35,6 +35,7 @@ Pour commencer, le but de l'exposition est de faire plein de tâches à accompli
 
 ## Composante, techniques et éléments nécéssaires
 Deux écrans. Un pour le jeu et l'autre pour montrer les consignes. Le harpon mécanique, le bouton sur le harpon aussi. Le scanner pour le nanuup tuminga et les haut parleurs. Il y a aussi les lumières.
+
 <img src="photo/partie_composante_1.jpg" width="330px">
 <img src="photo/partie_composante_2.jpg" width="330px">
 <img src="photo/partie_composante_3.jpg" width="330px">
