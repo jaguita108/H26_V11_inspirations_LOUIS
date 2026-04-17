@@ -35,6 +35,15 @@ Pour commencer, le but de l'exposition est de faire plein de tâches à accompli
 
 ## Composante, techniques et éléments nécéssaires
 Deux écrans. Un pour le jeu et l'autre pour montrer les consignes. Le harpon mécanique, le bouton sur le harpon aussi. Le scanner pour le nanuup tuminga et les haut parleurs. Il y a aussi les lumières.
+<img src="photo/partie_composante_1.jpg" width="330px">
+<img src="photo/partie_composante_2.jpg" width="330px">
+<img src="photo/partie_composante_3.jpg" width="330px">
+<img src="photo/partie_composante_4.jpg" width="330px">
+<img src="photo/partie_composante_5.jpg" width="330px">
+<img src="photo/partie_composante_6.jpg" width="330px">
+<img src="photo/partie_composante_7.jpg" width="330px">
+<img src="photo/partie_composante_8.jpg" width="330px">
+
 
 ## Éxpérience vécue
 J'entre dans l'exposition et je vois un grand écran qui explique comment utiliser les dispositifs. En continuant tout droit, on peut voir des petites cartes qui s'appellent des nanuup tuminga et on doit les scanner sur un scanner pour choisir la langue. Il y en avait un en français et l'autre était en anglais. J'ai choisi français.
