@@ -1,5 +1,8 @@
 # Réseau Vivant
 ## Terminal
+<p align="center">
+  <img src="photos/affiche_reseau_vivant.jpg" width="330px">
+</p>
 
 ## Lieu de mise en exposition
 Grand Studio
