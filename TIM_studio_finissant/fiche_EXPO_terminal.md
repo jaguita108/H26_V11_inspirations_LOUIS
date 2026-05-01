@@ -2,6 +2,7 @@
 ## Terminal
 <p align="center">
   <img src="photos/affiche_resau_vivant.jpg" width="330px">
+  <img src="photos/vue_ensemble_terminal.jpg" width="330px">
 </p>
 
 ## Lieu de mise en exposition
@@ -19,7 +20,6 @@ Temporaire
 ## Description du dispositif
 <p align="center">
   <img src="photos/cartel_terminal.jpg" width="330px">
-  <img src="photos/vue_ensemble_terminal.jpg" width="330px">
 </p>
 
 ## Type d'installation
