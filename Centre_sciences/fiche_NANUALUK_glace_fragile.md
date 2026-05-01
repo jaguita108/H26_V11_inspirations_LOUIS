@@ -42,6 +42,8 @@ Pour commencer, le but de l'exposition est de faire plein de tâches à accompli
 ## Mise en espace
 <p align="center">
 <img src="photo/croquis.png" width="330px">
+
+ > Croquis du dispositif - Jayden Louis
 </p>
 
 ## Composante, techniques et éléments nécéssaires
