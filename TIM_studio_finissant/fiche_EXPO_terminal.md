@@ -5,6 +5,9 @@
   <img src="photos/vue_ensemble_terminal.jpg" width="330px">
 </p>
 
+> Affiche réseau vivant - Jayden Louis
+> Vue d'ensemble de Terminal - Jayden Louis
+
 ## Lieu de mise en exposition
 Grand Studio
 
@@ -21,6 +24,8 @@ Temporaire
 <p align="center">
   <img src="photos/cartel_terminal.jpg" width="330px">
 </p>
+
+> Cartel du dispositif
 
 ## Type d'installation
 Intéractive
