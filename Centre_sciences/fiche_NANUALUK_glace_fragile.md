@@ -75,3 +75,8 @@ J'entre dans l'exposition et je vois un grand écran qui explique comment utilis
 
  ## Ce que je ferais autrement
  J'augmenterais la difficulté du jeu parce qu'il était quand même facile à réussir. J'ajouterais plus d'ours polaire qui bloquent le chemin mais je ferais qu'ils attaquent si on ne réagit pas assez rapidement.
+
+ ## Sites web des studios et équipes qui ont créé le dispositif
+https://www.gsmstudios.world/fr
+https://www.centredessciencesdemontreal.com/
+https://limacharlie.ca/fr/projets/nanualuk-expedition-nordique-centre-des-sciences-de-montreal?utm_source=chatgpt.com
