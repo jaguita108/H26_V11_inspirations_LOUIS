@@ -30,6 +30,8 @@ Pour jouer : 1 : Utilise ton nanuuo tuminga pour débuter une mission. 2 : Explo
 <img src="photo/texte_explicatif_2.jpg" width="330px">
 </p>
 
+> Photos de texte explicatif - Jayden Louis
+
 ## Type d'installation
 Interactive
 
