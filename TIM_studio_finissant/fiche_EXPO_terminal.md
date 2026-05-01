@@ -2,7 +2,7 @@
 ## Terminal
 
 ## Lieu de mise en exposition
-Collège Montmorency
+Grand Studio
 
 ## Type d'exposition
 Temporaire
