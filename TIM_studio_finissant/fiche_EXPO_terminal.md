@@ -15,7 +15,7 @@ Temporaire
 
 ## Description du dispositif
 <p align="center">
-  <img src="photo/cartel_terminal.jpg" width="330px">
+  <img src="photos/cartel_terminal.jpg" width="330px">
 </p>
 
 ## Type d'installation
