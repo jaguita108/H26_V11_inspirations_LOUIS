@@ -29,17 +29,25 @@ Intéractive
 C'est un jeu ou chaque joueur contrôle un personnage qui doit atteindre un objectif. Il y a des obstacles et chaque joueur doit atteindre l'objectif pour avancer dans le prochain niveau. Les joueurs contrôlent leur personnages grâce à leur téléphone. Il suffit de scanner un code QR pour rejoindre la partie.
 
 ## Mise en espace
-<p align="center">
-  <img src="photos/schema_terminal.png" width="330px">
-
-  > Croquis du dispositif - Source : site de terminal
-</p>
 
 ## Composantes et techniques et éléments nécessaires à la mise en exposition
 Projecteur, ordinateur, téléphone, pouf, haut-parleurs, lumières, code QR.
+<p align="center">
+  <img src="photos/routeur_terminal.jpg" width="330px">
+  <img src="photos/projecteur_terminal.jpg" width="330px">
+  <img src="photos/code_qr_terminal.jpg" width="330px">
+  <img src="photos/haut-parleur_terminal.jpg" width="330px">
+  <img src="photos/mur_terminal.jpg" width="330px">
+  <img src="photos/poufs_terminal.jpg" width="330px">
 
+  > Composantes et éléments nécessaires pour Terminal - Jayden Louis
+</p>
 ## Expérience vécue
 Je peux controler la direcion de mon personnage avec mon téléphone et je coopere avec d'autre gens dans le jeu pour gagner la partie.
+
+<p align="center">
+  <img src="photos/interface_terminal.jpg" width="330px">
+</p>
 
 ## Ce qui m'a plu et donné des idées
 J'ai aimé l'aspect coopératif du jeu et qu'il ne faut pas juste faire le travail seul.
