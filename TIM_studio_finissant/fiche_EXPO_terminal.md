@@ -35,8 +35,9 @@ C'est un jeu ou chaque joueur contrôle un personnage qui doit atteindre un obje
 
 ## Mise en espace
 <p align="center">
-  <img src="photos/schema_terminal.jpg" width="330px">
+  <img src="photos/schema_terminal.png" width="330px">
 </p>
+
 > Schéma de Terminal Source : Site web du projet
 
 ## Composantes et techniques et éléments nécessaires à la mise en exposition
