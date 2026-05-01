@@ -46,7 +46,7 @@ En pensant à votre cheminement dans la formation en TIM
 | No ordre de préférence ||3|
 | Titre du projet ||Mission décollage |
 | Noms des créateurs et créatrices||Ahmed Kaissoumi, Radhouane Kordan, Justin Montpetit, Thearylou Lach et Jad Saloumi |
-| Installation en cours (ou finale)|photo de l'ensemble de l'installation dans le studio|Il y a un panneau de contrôle pour piloter le vaisseau et la projection est devant le joueur. Sur le panneau de contrôle, il y a des boutons pour contrôller le vaisseau. Il y a des boutons ppour changer la vitesse, se déplacer à gauche et à droite, un bouton pour mettre un bouclier sur le vaisseau, etc. |
+| Installation en cours (ou finale)|<img src="photos/vue_ensemble_decollage.png">|Il y a un panneau de contrôle pour piloter le vaisseau et la projection est devant le joueur. Sur le panneau de contrôle, il y a des boutons pour contrôller le vaisseau. Il y a des boutons pour changer la vitesse, se déplacer à gauche et à droite, un bouton pour mettre un bouclier sur le vaisseau, etc. |
 | Schéma de l'installation prévue|<img src="photos/schema_mission.png"> |Source : https://o-i-g-n-o-n.github.io/Mission-decollage/#/technique/ Nom du fichier : schema_mission.png|
 | Ce que vous ressentez en expérimentant chacune des installations, avec justification (avant/après l'expérimentation)||Avant, j'étais tout de même intéressé par le projet, je voulais voir de quoi il s'agissait. Après, j'ai bien aimé l'expérience c'est juste que j'ai trouvé difficile de réussir la mission, étant donné que j'ai essayé de le faire seul même si c'est un jeu qui doit être joué d'équipe. |
 
