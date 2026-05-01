@@ -27,7 +27,11 @@ Intéractive
 
 ## Fonction du dispositif multimédia
 C'est un jeu ou chaque joueur contrôle un personnage qui doit atteindre un objectif. Il y a des obstacles et chaque joueur doit atteindre l'objectif pour avancer dans le prochain niveau. Les joueurs contrôlent leur personnages grâce à leur téléphone. Il suffit de scanner un code QR pour rejoindre la partie.
+
 ## Mise en espace
+<p align="center">
+  <img src="photos/schema_terminal.png" width="330px">
+</p>
 
 ## Composantes et techniques et éléments nécessaires à la mise en exposition
 Projecteur, ordinateur, téléphone, pouf, haut-parleurs, lumières, code QR.
