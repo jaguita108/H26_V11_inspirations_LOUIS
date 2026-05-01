@@ -3,6 +3,7 @@
 <p align="center">
 <img src="photo/affiche_exposition.jpg" width="330px">
 <img src="photo/vue_ensemble_dispositif.jpg" width="330px">
+<img src="photo/selfie_entree.jpg" width="330px">
 
 > Affiche de l'exposition - Jayden Louis
 
