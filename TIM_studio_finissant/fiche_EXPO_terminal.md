@@ -42,12 +42,15 @@ Projecteur, ordinateur, téléphone, pouf, haut-parleurs, lumières, code QR.
 
   > Composantes et éléments nécessaires pour Terminal - Jayden Louis
 </p>
+
 ## Expérience vécue
 Je peux controler la direcion de mon personnage avec mon téléphone et je coopere avec d'autre gens dans le jeu pour gagner la partie.
 
 <p align="center">
   <img src="photos/interface_terminal.jpg" width="330px">
 </p>
+
+> Interface sur téléphone du jeu Terminal - Jayden Louis
 
 ## Ce qui m'a plu et donné des idées
 J'ai aimé l'aspect coopératif du jeu et qu'il ne faut pas juste faire le travail seul.
