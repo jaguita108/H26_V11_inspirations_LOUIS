@@ -8,12 +8,14 @@ Premièrement, Martin Boucher nous a expliqué l'objectif du musée de l'ingéni
 
 <p align="center">
 <img src="photo/IMG_0753.jpeg" width="330px">
+  
 > Photo du dispositif -Sylvie François
 
 Deuxièmement, il a travaillé sur une autre exposition qui met en avant un moteur de train pour le métro. Cette exposition n'avait pas beaucoup de visiteurs à la base, à cause du manque d'interactivité. Alors, pour rendre le tout plus intéressant, Martin et son équipe ont décidé de créer un jeu qui permet d'appuyer sur plusieurs boutons pour créer la bonne combinaison de fréquences pour faire partir le train. Faire cela a bien marché et maintenant les visiteurs du musée restent plus longtemps sur cette exposition. Elle est très accessible et peut être utilisée par des gens de tous âges.
 
 <p align="center">
 <img src="photo/IMG_0787.jpeg" width="330px">
+  
 > Photo du dispositif -Sylvie François
   
 ## Conclusion
